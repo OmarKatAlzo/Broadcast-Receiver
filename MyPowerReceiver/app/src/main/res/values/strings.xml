@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Power Receiver</string>
+    <string name="send_broadcast">SEND BROADCAST!</string>
+    <string name="power_connet_toast">Power connected!</string>
+    <string name="power_disc_toast">Power disconnected!</string>
+    <string name="custom_broad_toast">Custom broadcast received!</string>
+    <string name="unknown_action_toast">Unknown action received..</string>
+    <string name="head_unplug_toast">Headset unplugged</string>
+    <string name="head_plug_toast">Headset plugged</string>
+</resources>
